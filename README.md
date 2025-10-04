@@ -1,2 +1,8 @@
-# OOP-Beauty-Salon
-Repository for my object oriented programming style projects using Java, Python languages.
+# Beauty Salon Mangagement System
+
+## Tools & Language
+- Java
+- Object-Oriented Programming (OOP)
+
+# Screenshots 
+

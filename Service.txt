@@ -1,0 +1,5 @@
+Hair Cut, 30 Minutes, 25.0
+Hair Treatment, 2 Hours, 200.0
+Hair Protien, 3 Hours, 550.0
+Nails , 1 Hour, 80.0
+Hand Henna, 30 Minutes, 50.0

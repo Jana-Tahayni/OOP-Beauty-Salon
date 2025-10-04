@@ -1,0 +1,4 @@
+2024-06-21, 12.0, 22.5, Jana, 0592, Gold, Hair Cut, 30 Minutes, 25.0
+2024-06-23, 10.0, 23.75, Saja, 0594, Silver, Hair Cut, 30 Minutes, 25.0
+2024-06-25, 17.0, 42.5, Nesreen, 0597, Platinum, Hand Henna, 30 Minutes, 50.0
+2024-06-26, 17.0, 522.5, Haya, 0599, Silver, Hair Protien, 3 Hours, 550.0

@@ -1,0 +1,4 @@
+Jana, 0592, Gold
+Saja, 0594, Silver
+Haya, 0599, Silver
+Nesreen, 0597, Platinum
