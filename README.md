@@ -1,10 +1,3 @@
-# Beauty Salon Mangagement System
-
-## Tools & Language
-- Java
-- Object-Oriented Programming (OOP)
-
-# Screenshots 
 # Beauty Salon Management System
 
 ## Tools & Language
@@ -20,5 +13,6 @@
 ![Customer Screen](88f45cd4-e1ba-4abc-88d3-0900f3166214.jfif)
 ![Booking an appointment](28b560b5-772b-4d26-9e43-f8ec91197c0b.jfif)
 ![Closed time due to full booked appointments](18a1ec38-c97f-44c3-ac1a-033e18e50d2e.jfif)
+
 
 
